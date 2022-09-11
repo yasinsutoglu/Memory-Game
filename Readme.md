@@ -1,20 +1,20 @@
 <h1 align="center">Memory Game</h1>
 
 <h3>Overview</h3>
-👨‍💻 In this project I mastered division and animation skills. I used mainly HTML, CSS and JS (DOM Manipulation). You can see visual demo of the website below. The objective is to build out this real-like webpage and make it looking as professional as possible..
+👨‍💻 In this project I mastered division and basic animation skills. I used mainly HTML, CSS and JS (DOM Manipulation). You can see visual demo of the website below. The objective is to build out this real-like webpage and make it looking as professional as possible..
 <hr>
 
 ## ✨ Demo
 
  <p align="center">
-  <img width="700" align="center" src="./images/readme.gif" alt="demo"/>   
+  <img width="700" align="center" src="./img/readme.gif" alt="demo"/>   
 </p>
 
 <!-- ![Alt text](https://giphy.com/peekasso)  -->
 
 <hr>
 
-[📍click here to see page]( https://yasinsutoglu.github.io/Rock-Paper-Scissors-Game/)
+[📍click here to see page](https://yasinsutoglu.github.io/Memory-Game/)
 
 <!-- ------------------------------------------------------ -->
 
@@ -24,11 +24,11 @@
 Game Project (folder)
 |
 |----readme.md              
-|----images            
+|----img           
 |----solution
         |----index.html  
         |----style.css 
-        |----app.js  
+        |----script.js  
 ```
 
 <!-- --------------------------------------- -->
@@ -45,12 +45,9 @@ Game Project (folder)
 
 - HTML / Semantic elements 
 
-- CSS / Flexbox - Animation - Positon Property
+- CSS / Flexbox - Grid - Position Property - Transform - Transition
 
-- JS / DOM Manipulation - SetTimeOut Function - Arrow Function
-
-
-
+- JS / DOM Manipulation - SetTimeOut Function - Arrow Function - Destructuring - Events - Conditionals - Loops
 ### At the end of the project, i will be able to;
 
 - improve coding skills within HTML & CSS & JS
